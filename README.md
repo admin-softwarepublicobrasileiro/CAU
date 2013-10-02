@@ -4,15 +4,15 @@ Para a utilização deste documento é necessário seguir as regras da licença 
 
 Você tem a liberdade de:
 
-![](https://raw.github.com/gabrielamayoli/CAU/master/imagens/1.png) &nbsp;<b>Compartilhar</b> — copiar, distribuir e transmitir a obra.
+![](https://raw.github.com/admin-softwarepublicobrasileiro/CAU/master/imagens/1.png) &nbsp;<b>Compartilhar</b> — copiar, distribuir e transmitir a obra.
 
-![](https://raw.github.com/gabrielamayoli/CAU/master/imagens/2.png) &nbsp;<b>Remixar</b> — criar obras derivadas.
+![](https://raw.github.com/admin-softwarepublicobrasileiro/CAU/master/imagens/2.png) &nbsp;<b>Remixar</b> — criar obras derivadas.
 
 Sob as seguintes condições:
 
-![](https://raw.github.com/gabrielamayoli/CAU/master/imagens/3.png) &nbsp;<b>Atribuição</b> — Você deve creditar a obra da forma especificada pelo autor ou licenciante (mas não de maneira que sugira que estes concedem qualquer aval a você ou ao seu uso da obra).
+![](https://raw.github.com/admin-softwarepublicobrasileiro/CAU/master/imagens/3.png) &nbsp;<b>Atribuição</b> — Você deve creditar a obra da forma especificada pelo autor ou licenciante (mas não de maneira que sugira que estes concedem qualquer aval a você ou ao seu uso da obra).
 
-![](https://raw.github.com/gabrielamayoli/CAU/master/imagens/4.png) &nbsp;<b>Compartilhamento pela mesma licença</b> — Se você alterar, transformar ou criar em cima desta obra, você poderá distribuir a obra resultante apenas sob a mesma licença, ou sob uma licença similar à presente.
+![](https://raw.github.com/admin-softwarepublicobrasileiro/CAU/master/imagens/4.png) &nbsp;<b>Compartilhamento pela mesma licença</b> — Se você alterar, transformar ou criar em cima desta obra, você poderá distribuir a obra resultante apenas sob a mesma licença, ou sob uma licença similar à presente.
 
 Ficando claro que: <b>Renúncia</b> — Qualquer das condições acima pode ser [renunciada](http://creativecommons.org/licenses/by-nc-sa/2.5/br/deed.pt_BR#) se você obtiver permissão do titular dos direitos autorais. 
 <b>Domínio Público</b> — Onde a obra ou qualquer de seus elementos estiver em [domínio público](http://wiki.creativecommons.org/Public_domain) sob o direito aplicável, esta condição não é, de maneira alguma, afetada pela licença. 
